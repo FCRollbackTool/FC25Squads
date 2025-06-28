@@ -778,7 +778,7 @@
                         "Counts": {
                             "Added": 0,
                             "Removed": 0,
-                            "Modified": 15
+                            "Modified": 0
                         }
                     },
                     {
@@ -787,14 +787,14 @@
                         "Counts": {
                             "Added": 0,
                             "Removed": 0,
-                            "Modified": 3145,
+                            "Modified": 0,
                             "HeadModels_Added": 0,
                             "HeadModels_Removed": 0,
                             "CraniumFacesUpdates": 0,
                             "Transfers_Free": 0,
                             "Transfers_Permanent": 0,
                             "Transfers_Loan": 0,
-                            "NationalTeams_CalledUp": 8
+                            "NationalTeams_CalledUp": 0
                         }
                     },
                     {
@@ -828,7 +828,7 @@
                         "Counts": {
                             "Added": 0,
                             "Removed": 0,
-                            "Modified": 158
+                            "Modified": 0
                         }
                     }
                 ]
