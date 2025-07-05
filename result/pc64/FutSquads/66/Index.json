@@ -759,7 +759,70 @@
                     "ColumnReadOrder": "RiGc,mCXg"
                 }
             ],
-            "Changelogs": {}
+            "Changelogs": {
+                "Path": "result/pc64/FutSquads/66/cards_ng_db_1.db_Changelogs",
+                "Files": [
+                    {
+                        "Type": "Tables",
+                        "FileName": "TablesChangelog.xlsx",
+                        "Counts": {
+                            "Added": 0,
+                            "Removed": 0,
+                            "Modified": 4
+                        }
+                    },
+                    {
+                        "Type": "Players",
+                        "FileName": "PlayersChangelog.xlsx",
+                        "Counts": {
+                            "Added": 0,
+                            "Removed": 0,
+                            "Modified": 0,
+                            "HeadModels_Added": 0,
+                            "HeadModels_Removed": 0,
+                            "CraniumFacesUpdates": 0,
+                            "Transfers_Free": 0,
+                            "Transfers_Permanent": 0,
+                            "Transfers_Loan": 0,
+                            "NationalTeams_CalledUp": 0
+                        }
+                    },
+                    {
+                        "Type": "Managers",
+                        "FileName": "ManagersChangelog.xlsx",
+                        "Counts": {
+                            "Added": 0,
+                            "Removed": 0,
+                            "Modified": 0,
+                            "ManagerTracker_Appointed": 0,
+                            "ManagerTracker_ReAppointed": 0,
+                            "ManagerTracker_Departed": 0,
+                            "HeadModels_Added": 0,
+                            "HeadModels_Removed": 0,
+                            "GenericHeadModels_Added": 0,
+                            "GenericHeadModels_Removed": 0
+                        }
+                    },
+                    {
+                        "Type": "Kits",
+                        "FileName": "KitsChangelog.xlsx",
+                        "Counts": {
+                            "Added": 24,
+                            "Removed": 3,
+                            "Modified": 492
+                        }
+                    },
+                    {
+                        "Type": "Teams",
+                        "FileName": "TeamsChangelog.xlsx",
+                        "Counts": {
+                            "Added": 0,
+                            "Removed": 0,
+                            "Modified": 0
+                        }
+                    }
+                ]
+            }
         }
     ]
 }
